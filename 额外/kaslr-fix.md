@@ -1,4 +1,4 @@
-# Fixing KASLR slide values
+# 修复 KASLR slide 值
 
 This section is for users who wish to understand and fix "Couldn't allocate runtime area" errors. This is most common with either Z390, X99 and X299.
 
